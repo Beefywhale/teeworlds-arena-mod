@@ -1,5 +1,5 @@
 # Requirements
-Bam.
+Bam.\n
 C++ compiler (probably gcc).
 
 # Building
