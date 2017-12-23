@@ -1,6 +1,6 @@
 # Requirements
-Bam.\n
-C++ compiler (probably gcc).
+* Bam.
+* C++ compiler (probably gcc).
 
 # Building
 run `bam server_release` to build from source.
